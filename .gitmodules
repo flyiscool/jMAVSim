@@ -1,4 +1,4 @@
 [submodule "jMAVlib"]
 	path = jMAVlib
-	url = git@gitee.com:flyiscool/jMAVlib.git
+	url = https://gitee.com/flyiscool/jMAVlib.git
 	branch = master
